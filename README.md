@@ -1,17 +1,16 @@
-An astrology tool is a digital system that generates and interprets astrological insights based on a person’s birth details, including date, time, and place of birth. It calculates planetary positions, zodiac signs, houses, and aspects using astronomical data, then translates these configurations into structured interpretations.
+🔮 Astrology Tool
 
-Core Features:
+A simple Python tool that generates basic astrological birth chart data.
 
-Birth chart (natal chart) generation
+## Features
+- Sun Sign
+- Moon Sign
+- Ascendant
 
-Planetary position calculations
+## Installation
 
-Zodiac sign and house placement analysis
+pip install -r requirements.txt
 
-Dasha / planetary period predictions (Vedic systems)
+## Run
 
-Transit analysis
-
-Compatibility (synastry) reports
-
-Daily, weekly, or monthly horoscopes
+python main.py

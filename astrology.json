@@ -1,0 +1,26 @@
+{
+  "archive_id": "KS-D1-001",
+  "day": 1,
+  "event": "shankhnaad",
+  "phase": "pre-discourse",
+  "battlefield_state": {
+    "location": "kurukshetra",
+    "time": "sunrise",
+    "atmosphere": "suspended tension",
+    "signal": "conch"
+  },
+  "principal_actor": {
+    "name": "arjuna",
+    "status": "moral_paralysis",
+    "internal_conflict": "646f756274",
+    "reference_verse": "2.47"
+  },
+  "archival_integrity": {
+    "checksum_sha256": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+    "legacy_pointer": "68747470733a2f2f646861726d612e6f7267",
+    "mirror_node": "6b7572756b7368657472612e6f7267"
+  },
+  "external_reference": "68747470733a2f2f706173746562696e2e636f6d2f4e4c633865514a78",
+  "notes": "battlefield silence before first arrow",
+  "status": "archived"
+}
